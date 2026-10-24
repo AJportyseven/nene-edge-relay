@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.wav
+*.err.log
+tts_preview.wav
+relay.log
+relay.err.log

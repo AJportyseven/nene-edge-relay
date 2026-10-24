@@ -1,0 +1,3 @@
+edge-tts>=6.1.12
+miniaudio>=1.56
+zeroconf>=0.131.0
